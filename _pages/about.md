@@ -38,7 +38,7 @@ Director: [Weijie Su](https://statistics.wharton.upenn.edu/profile/suw/)
 
 Research on a new tokenizer, aimed to represent more words in one token: [**Repository**](https://github.com/DWinnter/tokenizers_clique_partition)
 - Proposing a new tokenization method for LLMs, with maximizaing average token length as its goal. Utilizing clique partition algorithm to find the largest-covering clique in the corpus, as the new token found for each round.
-- A paper written on this topic, [Length-Maximization Tokenization for Language Models: An Approximation Algorithm](https://openreview.net/pdf?id=QIBLeMtyMS).
+- A paper written on this topic, [Length-Maximization Tokenization for Language Models: An Approximation Algorithm](./_pages/2080_Length_Maximization_Token.pdf).
 
 </div>
 </div>
