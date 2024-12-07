@@ -111,6 +111,8 @@ Director: [Wei Chen](https://person.zju.edu.cn/en/wei_chen#0)
 
 Developed an intelligent visual analysis system for cross-domain multi-modal data: [**Repository**](https://github.com/DWinnter/ChartGPT)
 
+This research is ranked as a province-level project funded by the government, under the guidance of Prof. Chen in the [State Key Lab of CAD&CG](http://www.cad.zju.edu.cn/english.html), Zhejiang University.
+
 Key features include:
 - A novel federated data representation mechanism that enables secure cross-domain data analysis
 - Human-machine collaborative visual analysis paradigm powered by deep learning and knowledge reasoning to provide personalized visual analytics services
