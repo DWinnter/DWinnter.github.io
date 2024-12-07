@@ -3,20 +3,14 @@ main:
   - title: "About Me"
     url: "/#about-me"
 
-  - title: "News"
-    url: "/#-news"
+  - title: "Experience" 
+    url: "/#experience"    # 改为简单的小写单词
 
-  - title: "Publications"
-    url: "/#-publications"
-
-  - title: "Honors and Awards"
-    url: "/#-honors-and-awards"
+  - title: "Honors"
+    url: "/#honors"        # 简化为 honors
 
   - title: "Educations"
-    url: "/#-educations"
+    url: "/#education"     # 改为单数形式
 
-  - title: "Invited Talks"
-    url: "/#-invited-talks"
-
-  - title: "Internships"
-    url: "/#-internships"
+  - title: "Activities"
+    url: "/#activities"    # 简化为 activities

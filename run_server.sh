@@ -1,1 +1,1 @@
-bundle exec jekyll liveserve
+JEKYLL_ENV=development bundle exec jekyll serve --livereload
