@@ -85,7 +85,7 @@ Developed a detection system for AIGC content that improves detection accuracy a
 **🎉 Highlights:**
 - This project won the first prize in [The China International College Students' Innovation Competition (2024)](https://www.pilcchina.org/home), outstanding as the top 100 among 5140000 projects this year.
 - We are selected as the only undergraduate team to report and interact with [the Minister of Education of China](https://mp.weixin.qq.com/s/ieVh0foME9xea7sK_usyYg) at the Achievement Exhibition affliated with the competition.
-- We are invited to a [symposium](https://mp.weixin.qq.com/s/ceJu9Fponx0C2vQo96Sjbg) held by the headmaster of Zhejiang University, where I made an report as well.
+- We are invited to a [symposium](https://mp.weixin.qq.com/s/ceJu9Fponx0C2vQo96Sjbg) held by the headmaster of Zhejiang University, where I made a report as well.
 
 </div>
 </div>
