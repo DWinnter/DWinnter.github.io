@@ -59,6 +59,10 @@ Research on a new tokenizer, aimed to represent more words in one token: [**Repo
         <div class="badge">Report to the Minister of Education of China</div>
         <img src='images/2024-12-07202530.png' alt="achievement" width="100%">
     </div>
+    <div>
+        <div class="badge">Introduction to another candidate from Oxford (in English)</div>
+        <img src='images/20241209152915.png' alt="achievement" width="100%">
+    </div>
 </div>
 </div>
 
