@@ -61,7 +61,7 @@ Research on a new tokenizer, aimed to represent more words in one token: [**Repo
     </div>
     <div>
         <div class="badge">Introduction to another candidate from Oxford (in English)</div>
-        <img src='images/20241209152915.png' alt="achievement" width="100%">
+        <img src='images/20241209152915.jpg' alt="achievement" width="100%">
     </div>
 </div>
 </div>
